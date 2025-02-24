@@ -1,0 +1,8 @@
+a = 5
+b = 9
+
+print("initial value of a ", a)
+print("initial value of b ", b)
+a, b = b, a
+print("final value of a ", a)
+print("final value of b ", b)
