@@ -5,5 +5,3 @@ Courses completed:
 * Python Essentials 1 (Cisco)
 
 * Python Essentials 2 (Cisco)
-
-Courses in progress: 
