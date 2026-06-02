@@ -3,5 +3,7 @@ This is a repository where I will be uploading the excercises I do to learn pyth
 
 Courses completed: 
 * Python Essentials 1 (Cisco)
-
 * Python Essentials 2 (Cisco)
+
+Courses in progress:
+* Python CS50
